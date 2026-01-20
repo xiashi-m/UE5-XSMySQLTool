@@ -151,10 +151,6 @@ A plugin specifically designed to encapsulate MySQL functionality for UE5. It pr
 
 #### ■ 存储引擎类型（InnoDB/MyISAM）
 
-#### ■ 字符集（UTF8/GBK 等）
-
-这是插件全部 API 的“骨架”。
+# 
 
 ## 蓝图
-
-
