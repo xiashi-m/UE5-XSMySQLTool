@@ -3,8 +3,9 @@
 #pragma once
 #include "CoreMinimal.h"
 #include "Kismet/BlueprintFunctionLibrary.h"
-
 #include "Blueprint/XSMySQLObject.h"
+#include "Engine/Engine.h"
+#include "Engine/World.h"
 
 #include "XSMySQLLibrary.generated.h"
 
