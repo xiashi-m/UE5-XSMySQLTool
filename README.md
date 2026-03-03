@@ -6,6 +6,10 @@
 > **项目定位**：为 Unreal Engine 提供一个可在 **蓝图/CPP** 中直接使用的 **MySQL C API** 封装插件。
 **核心目标**：把 MySQL 连接、SQL 执行、结果集解析、常用 SQL 生成（SELECT/INSERT/UPDATE/DDL/事务/函数/存储过程等）抽象成 UE 风格的对象与数据结构，降低业务侧写 SQL/处理结果的成本。
 
+
+视频讲解：https://flowus.cn/share/dcf7c036-28a8-41d8-b137-b5a05eb0d51b?code=H4R11S
+【FlowUs 息流】视频
+
 ---
 
 ## 1. 项目结构总览（文件与职责）
